@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-30T18:33:55 IST" name="Default suite" finished-at="2022-03-30T18:34:40 IST" duration-ms="45388">
+    <groups>
+    </groups>
+    <test started-at="2022-03-30T18:33:55 IST" name="Default test" finished-at="2022-03-30T18:34:40 IST" duration-ms="45388">
+      <class name="General_Store.ECommerce_TC_1">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:General_Store.ECommerce_TC_1@7c24b813]" started-at="2022-03-30T18:33:55 IST" name="beforeTest" finished-at="2022-03-30T18:34:26 IST" duration-ms="31154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="totalValidation()[pri:0, instance:General_Store.ECommerce_TC_1@7c24b813]" started-at="2022-03-30T18:34:26 IST" name="totalValidation" finished-at="2022-03-30T18:34:40 IST" duration-ms="14006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:General_Store.ECommerce_TC_1@7c24b813]" started-at="2022-03-30T18:34:40 IST" name="afterTest" finished-at="2022-03-30T18:34:40 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- General_Store.ECommerce_TC_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
